@@ -12,5 +12,5 @@ function theBeatlesPlay (musiciansArray, instrumentsArray){
 
 function johnLennonFacts (facts) {
   let factsArray = [];
-  while ()
+  while (i < facts.length)
 
