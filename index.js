@@ -11,12 +11,12 @@ function theBeatlesPlay (musiciansArray, instrumentsArray){
 }
 
 function johnLennonFacts (facts) {
-  let i = 0
   let factsArray = [];
+  let i = 0;
   while (i < facts.length)
-  i++
 {
   factsArray.push(`${facts[i]}!!!`)
+  i++
 }
 return factsArray;
 }
